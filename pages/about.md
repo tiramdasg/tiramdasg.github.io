@@ -18,3 +18,7 @@ Aspiring Software Engineer Specialist with full capabilities of integrating tech
 <div class="row">
 {% include about/timeline.html title="Education" source=site.data.timeline-edu %}
 </div>
+
+<div class="row">
+{% include about/timeline.html title="Education" source=site.data.work-experience %}
+</div>
