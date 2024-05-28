@@ -9,7 +9,15 @@
       <p class="mb-1">{{ skill.name }}</p>
     </div>
     <div class="col-2 text-right">
-      <p class="mb-1 text-muted">{{ skill.percentage }}%</p>
+      <p class="mb-1 text-muted">
+        {% if skill.percentage >= 70 %}
+          Advanced
+        {% elsif skill.percentage >= 45 and skill.percentage < 70 %}
+          Intermediate
+        {% else %}
+          Good
+        {% endif %}
+      </p>
     </div>
   </div>
 

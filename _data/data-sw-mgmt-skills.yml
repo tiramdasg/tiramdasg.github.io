@@ -1,0 +1,51 @@
+- name: MySQL
+  percentage: 80
+  color: success
+
+- name: Jira
+  percentage: 90
+  color: success
+
+- name: Sonar
+  percentage: 85
+  color: success
+
+- name: Notion
+  percentage: 95
+  color: success
+
+- name: MS Word
+  percentage: 85
+  color: success
+
+- name: Latex
+  percentage: 85
+  color: success
+
+- name: MS Powerpoint
+  percentage: 70
+  color: success
+
+- name: PostgreSQL
+  percentage: 50
+  color: info
+
+- name: IBM Engineering Lifecycle Management
+  percentage: 40
+  color: danger
+
+- name: Service Now
+  percentage: 40
+  color: danger
+
+- name: CollabNet
+  percentage: 40
+  color: danger
+
+- name: MS Excel
+  percentage: 40
+  color: danger
+
+- name: YML
+  percentage: 55
+  color: info

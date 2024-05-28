@@ -1,7 +1,31 @@
-- name: Adobe Photoshop
+- name: Visual Studio Code
   percentage: 95
-  color: info
+  color: success
 
-- name: Adobe Illustrator
+- name: GitHub/GitHub Desktop
   percentage: 90
   color: success
+
+- name: Eclipse
+  percentage: 80
+  color: success
+
+- name: MySQL WOrkbench
+  percentage: 70
+  color: success
+
+- name: Linux
+  percentage: 65
+  color: info
+
+- name: Arduino
+  percentage: 50
+  color: info
+
+- name: RStudio
+  percentage: 65
+  color: info
+
+- name: PyCharm
+  percentage: 65
+  color: info
