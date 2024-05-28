@@ -44,20 +44,20 @@
 
 - name: JavaScript
   percentage: 40
-  color: danger
+  color: primary
 
 - name: jQuery
   percentage: 35
-  color: danger
+  color: primary
 
 - name: R
   percentage: 40
-  color: danger
+  color: primary
 
 - name: Apache Kafka
   percentage: 30
-  color: danger
+  color: primary
 
 - name: Apache Flink
   percentage: 30
-  color: danger
+  color: primary

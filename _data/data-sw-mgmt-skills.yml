@@ -32,19 +32,19 @@
 
 - name: IBM Engineering Lifecycle Management
   percentage: 40
-  color: danger
+  color: primary
 
 - name: Service Now
   percentage: 40
-  color: danger
+  color: primary
 
 - name: CollabNet
   percentage: 40
-  color: danger
+  color: primary
 
 - name: MS Excel
   percentage: 40
-  color: danger
+  color: primary
 
 - name: YML
   percentage: 55
