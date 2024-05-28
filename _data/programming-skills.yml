@@ -3,8 +3,8 @@
   color: danger
 
 - name: Python
-  percentage: 
-  color: success
+  percentage: 85
+  color: "#9DBC98"
 
 - name: Python
   percentage: 70
