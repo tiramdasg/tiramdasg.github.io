@@ -15,7 +15,7 @@ the results to an administrator. Each voting session has to be initiated by an a
 
 The architechture looks like follows:
 
-![architechture](../assets/images/decentralized-architechture.png)
+![architechture](assets/images/decentralized-architechture.png)
 
 ## Design Decisions
 
