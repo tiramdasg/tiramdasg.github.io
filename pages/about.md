@@ -28,7 +28,7 @@ Some of my Hobbies are:
 </div>
 
 <div class="row">
-{% include about/skills.html title="Data and Software Management" source=site.data.dev-programming-skills %}
+{% include about/skills.html title="Data and Software Management" source=site.data.data-sw-mgmt-skills %}
 </div>
 
 <!-- work experience -->
