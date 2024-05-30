@@ -2,7 +2,9 @@
 name: Blockchain-based Decentralized Voting System
 tools: [Angular, HTML, SCSS/CSS, TypeScript, MySQL, Nodejs, Ganache, Solidity, Truffle, Ethereum, Web3.0, GCP (Google Cloud Platform), Docker]
 image: assets\images\decentralized-architechture.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+style: fill
+color: info
+description: A decentralised voting system using blockchain smart contracts. Part of the Project Based Learning module of the Advanced Internet Computing course at the TUHH, SoSe, 2023.
 ---
 
 # Blockchain-based Decentralized Voting System
