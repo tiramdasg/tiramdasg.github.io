@@ -1,6 +1,6 @@
 ---
 name: Blockchain-based Decentralized Voting System
-tools: [Angular, HTML, SCSS/CSS, TypeScript, MySQL, Nodejs, Ganache, Solidity, Truffle, Ethereum, Web3.0, GCP (Google Cloud Platform), Docker]
+tools: [Angular, HTML, SCSS/CSS, TypeScript, MySQL, Nodejs, Ganache, Solidity, Truffle, GitHub, Ethereum, Web3.0, GCP (Google Cloud Platform), Docker]
 image: ../assets/images/decentralized-architechture.png
 style: fill
 color: info
