@@ -27,7 +27,7 @@ The implementation is divided into 2 main stages.
 
 **Stage 1: Local Setup and Training**
 1. Apache Kafka setup: Configure Kafka to manage and stream reddit comments.
-2. Data Provider: Developed a producer for Kafka to subit comments in the order they were recorded.
+2. Data Provider: Developed a producer for Kafka to submit comments in the order they were recorded.
 3. Apache Flink setup: Configure Flink to process the data streams and train local models.
 4. Basic Federated Learning Solution: Implementing the initial federated learning framework, enabling local models to be aggregated into a global model.
 
