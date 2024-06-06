@@ -1,6 +1,6 @@
 ---
 name: Training Example Reproduction and Vulnerability Assessment on GitHub’s Copilot
-tools: [Python, CodeQL, CWE, OWASP, GitHub Copilot, REST API]
+tools: [Python, CodeQL, CWE, OWASP, GitHub Copilot, REST API, LateX]
 image: 
 style: fill
 color: info

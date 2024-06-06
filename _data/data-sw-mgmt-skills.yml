@@ -1,51 +1,64 @@
 - name: MySQL
   percentage: 80
   color: success
+  level: adv
 
 - name: Jira
   percentage: 90
   color: success
+  level: inter
 
 - name: Sonar
   percentage: 85
   color: success
+  level: inter
 
 - name: Notion
   percentage: 95
   color: success
+  level: adv
 
 - name: MS Word
   percentage: 85
   color: success
+  level: adv
 
 - name: Latex
   percentage: 85
   color: success
+  level: adv
 
 - name: MS Powerpoint
   percentage: 70
   color: success
+  level: adv
 
 - name: PostgreSQL
   percentage: 50
   color: info
+  level: inter
 
 - name: IBM Engineering Lifecycle Management
   percentage: 40
   color: primary
+  level: good
 
 - name: Service Now
   percentage: 40
   color: primary
+  level: good
 
 - name: CollabNet
   percentage: 40
   color: primary
+  level: good
 
 - name: MS Excel
   percentage: 40
   color: primary
+  level: good
 
 - name: YML
   percentage: 55
   color: info
+  level: inter

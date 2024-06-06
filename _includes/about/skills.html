@@ -2,7 +2,34 @@
 
   <h2 class="mb-3">{{ include.title }}</h2>
 
-  <div class="row">
+  {% for skill in include.source offset: start_index %}
+    <table>
+      <thead>
+        <tr>
+          <th>Skill</th>
+          <th>Level</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for skill in include.source offset: start_index %}
+          <tr>
+            <td>{{ skill.name }}</td>
+            <td>
+              {% if skill.level == adv %}
+                Advanced
+              {% elsif skill.level == inter %}
+                Intermediate
+              {% else %}
+                Good
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>  
+  {% endfor %}
+
+  <!-- <div class="row">
     <div class="col-6">
       {% assign start_index = include.source.size | divided_by: 2 %}
       {% for skill in include.source offset: start_index %}
@@ -66,6 +93,6 @@
         </div>
       {% endfor %}
     </div>
-  </div>
+  </div> -->
 
 </div>
