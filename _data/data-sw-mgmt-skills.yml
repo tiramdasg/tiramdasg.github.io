@@ -1,55 +1,55 @@
 - name: MySQL
   level: adv
-  logop: ../assets/images/mysql.png
+  logop: ../../assets/images/mysql.png
 
 - name: Jira
   level: inter
-  logop: ../assets/images/skills-images/jira.png
+  logop: ../../assets/images/skills-images/jira.png
 
 - name: SonarQube
   level: inter
-  logop: ../assets/images/skills-images/sonar.png
+  logop: ../../assets/images/skills-images/sonar.png
 
 - name: Sonarlint
   level: inter
-  logop: ../assets/images/skills-images/sonar-lint.png
+  logop: ../../assets/images/skills-images/sonar-lint.png
 
 - name: Notion
   level: adv
-  logop: ../assets/images/skills-images/notion.png
+  logop: ../../assets/images/skills-images/notion.png
 
 - name: MS Word
   level: adv
-  logop: ../assets/images/skills-images/msword.png
+  logop: ../../assets/images/skills-images/msword.png
 
 - name: Latex (Overleaf)
   level: adv
-  logop: ../assets/images/skills-images/overleaf.png
+  logop: ../../assets/images/skills-images/overleaf.png
 
 - name: MS Powerpoint
   level: adv
-  logop: ../assets/images/skills-images/msppt.jpeg
+  logop: ../../assets/images/skills-images/msppt.jpeg
 
 - name: PostgreSQL
   level: inter
-  logop: ../assets/images/skills-images/postgresql.png
+  logop: ../../assets/images/skills-images/postgresql.png
 
 - name: IBM Engineering Lifecycle Management
   level: good
-  logop: ../assets/images/skills-images/ibmelm.png
+  logop: ../../assets/images/skills-images/ibmelm.png
 
 - name: Service Now
   level: good
-  logop: ../assets/images/skills-images/servicenow.png
+  logop: ../../assets/images/skills-images/servicenow.png
 
 - name: CollabNet
   level: good
-  logop: ../assets/images/skills-images/collabnet.jpg
+  logop: ../../assets/images/skills-images/collabnet.jpg
 
 - name: MS Excel
   level: good
-  logop: ../assets/images/skills-images/msexcel.png
+  logop: ../../assets/images/skills-images/msexcel.png
 
 - name: YML
   level: inter
-  logop: ../assets/images/skills-images/yml.png
+  logop: ../../assets/images/skills-images/yml.png

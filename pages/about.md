@@ -27,13 +27,15 @@ Some of my Hobbies are:
 <!-- CEFR descriptions -->
 
 <!-- skills -->
-<!-- <div class="row">
+<!-- 
+<div class="row">
 {% include about/skills.html title="Development and Programming" source=site.data.dev-programming-skills %}
 </div>
 
 <div class="row">
 {% include about/skills.html title="Platforms and Tools" source=site.data.tools-platforms-skills %}
-</div> -->
+</div> 
+-->
 
 <div class="row">
 {% include about/skills.html title="Data and Software Management" source=site.data.data-sw-mgmt-skills %}

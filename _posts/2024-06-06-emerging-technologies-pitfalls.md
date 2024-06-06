@@ -1,12 +1,10 @@
 ---
-title: 100 days of Coding & What it's Teaching Me
-tags: [python, 100 days]
+title: Avoiding Pitfalls in Emerging Technologies - A Strategic Guide
+tags: [innovation, management]
 style: fill
-color: info
-description: 100 days of coding and what it is teaching me.
+color: secondary
+description:
 ---
-
-## Introduction
 
 In the fast-paced world of technology, established firms must navigate numerous risks and challenges to capitalize on emerging technologies. This blog explores key strategies to avoid common pitfalls and leverage new technologies effectively, as outlined in the work of Geethika Tiramdas.
 
@@ -31,7 +29,7 @@ Kodak was reluctant to shift from film-based photography to digital technology, 
 Microsoft initially resisted cloud computing – allowed Amazon with AWS & Google with Google Cloud to dominate before Microsoft could catch up.
 
 4. **Lack of Persistence**: Inconsistent efforts can lead to failure in fully integrating and capitalizing on emerging technologies.<br><br>
-<img src="../assets/images/image-4.png" alt = "kodak" width="100"><br>
+<img src="../assets/images/image-5.png" alt = "hp" width="100"><br>
 HP’s tablet market with TouchPad was short-lived, discontinued product after few weeks of launch – poor sales.
 
 ### Pitfall 1: Misjudging Technology Readiness
