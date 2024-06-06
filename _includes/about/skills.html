@@ -1,33 +1,45 @@
 <div class="col-lg">
 
   <h2 class="mb-3">{{ include.title }}</h2>
-
-  {% for skill in include.source offset: start_index %}
-    <table>
-      <thead>
-        <tr>
-          <th>Skill</th>
-          <th>Level</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for skill in include.source offset: start_index %}
-          <tr>
-            <td>{{ skill.name }}</td>
-            <td>
-              {% if skill.level == adv %}
-                Advanced
-              {% elsif skill.level == inter %}
-                Intermediate
-              {% else %}
-                Good
-              {% endif %}
-            </td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>  
-  {% endfor %}
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign advanced_skills = site.data.skills | where: "level", "adv" %}
+      {% assign intermediate_skills = site.data.skills | where: "level", "inter" %}
+      {% assign good_skills = site.data.skills | where: "level", "good" %}
+      
+      <tr>
+        <td>Advanced</td>
+        <td>
+          {% for skill in advanced_skills %}
+            {{ skill.name }}{% if forloop.last == false %}, {% endif %}
+          {% endfor %}
+        </td>
+      </tr>
+      <tr>
+        <td>Intermediate</td>
+        <td>
+          {% for skill in intermediate_skills %}
+            {{ skill.name }}{% if forloop.last == false %}, {% endif %}
+          {% endfor %}
+        </td>
+      </tr>
+      <tr>
+        <td>Good</td>
+        <td>
+          {% for skill in good_skills %}
+            {{ skill.name }}{% if forloop.last == false %}, {% endif %}
+          {% endfor %}
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
   <!-- <div class="row">
     <div class="col-6">
