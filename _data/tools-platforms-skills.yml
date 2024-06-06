@@ -1,39 +1,26 @@
 - name: Visual Studio Code
-  percentage: 95
-  color: success
   level: adv
 
-- name: GitHub/GitHub Desktop
-  percentage: 90
-  color: success
+- name: GitHub / GitHub Desktop
   level: adv
 
 - name: Eclipse
-  percentage: 80
-  color: success
   level: adv
 
 - name: MySQL WOrkbench
-  percentage: 70
-  color: success
   level: adv
 
 - name: Linux
-  percentage: 65
-  color: info
   level: inter
 
 - name: Arduino
-  percentage: 50
-  color: info
   level: inter
 
 - name: RStudio
-  percentage: 65
-  color: info
   level: inter
 
 - name: PyCharm
-  percentage: 65
-  color: info
   level: inter
+
+- name: Jekyll
+  level: good

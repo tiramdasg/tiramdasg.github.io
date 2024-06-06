@@ -26,24 +26,25 @@ Some of my Hobbies are:
 * Hindi, Telugu (Native)
 <!-- CEFR descriptions -->
 
-<!-- education -->
-<div class="row">
+<!-- skills -->
+<!-- <div class="row">
 {% include about/skills.html title="Development and Programming" source=site.data.dev-programming-skills %}
 </div>
 
 <div class="row">
 {% include about/skills.html title="Platforms and Tools" source=site.data.tools-platforms-skills %}
-</div>
+</div> -->
 
 <div class="row">
 {% include about/skills.html title="Data and Software Management" source=site.data.data-sw-mgmt-skills %}
 </div>
 
-<!-- work experience -->
+<!-- education -->
 <div class="row">
 {% include about/timeline.html title="Education" source=site.data.timeline-edu %}
 </div>
 
+<!-- work experience -->
 <div class="row">
 {% include about/timeline.html title="Employment History" source=site.data.work-experience %}
 </div>

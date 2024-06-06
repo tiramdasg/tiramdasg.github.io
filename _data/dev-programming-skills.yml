@@ -1,84 +1,50 @@
 - name: Python
-  percentage: 85
-  color: success
   level: adv
 
 - name: HTML
-  percentage: 90
-  color: success
   level: adv
 
 - name: CSS/SCSS
-  percentage: 90
-  color: success
   level: adv
 
 - name: Java
-  percentage: 80
-  color: success
   level: adv
 
 - name: TypeScript
-  percentage: 80
-  color: success
   level: adv
 
 - name: Bootstrap
-  percentage: 70
-  color: success
   level: adv
 
 - name: JSON
-  percentage: 75
-  color: success
   level: adv
 
 - name: Spring Boot
-  percentage: 80
-  color: success
   level: adv
 
 - name: Angular
-  percentage: 80
-  color: success
   level: adv
 
 - name: Docker
-  percentage: 50
-  color: info
   level: inter
 
 - name: NodeJS
-  percentage: 46
   level: inter
-  color: info
 
 - name: JavaScript
-  percentage: 40
-  color: primary
   level: good
 
 - name: jQuery
-  percentage: 35
-  color: primary
   level: good
 
 - name: R
-  percentage: 40
-  color: primary
   level: good
 
 - name: Apache Kafka
-  percentage: 30
-  color: primary
   level: good
 
 - name: Apache Flink
-  percentage: 30
-  color: primary
   level: good
 
 - name: Julia
-  percentage: 35
-  color: primary
   level: good

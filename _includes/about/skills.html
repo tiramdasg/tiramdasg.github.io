@@ -2,53 +2,48 @@
 
   <h2 class="mb-3">{{ include.title }}</h2>
   
-  <table class="custom-table">
-    <thead>
-      <tr>
-        <th>Category</th>
-        <th>Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% assign advanced_skills = include.source | where: "level", "adv" %}
-      {% assign intermediate_skills = include.source | where: "level", "inter" %}
-      {% assign good_skills = include.source | where: "level", "good" %}
+  {% assign advanced_skills = include.source | where: "level", "adv" %}
+  {% assign intermediate_skills = include.source | where: "level", "inter" %}
+  {% assign good_skills = include.source | where: "level", "good" %}
 
-      {% if advanced_skills.size > 0 %}
-      <tr>
-        <td>Advanced</td>
-        <td>
-          {% for skill in advanced_skills %}
-            {{ skill.name }}{% if forloop.last == false %}, {% endif %}
-          {% endfor %}
-        </td>
-      </tr>
-      {% endif %}
+  {% if advanced_skills.size > 0 %}
+  <h4 class="mb-4">Advanced</h4>
+  <div class="row justify-content-center mb-4">
+    <div class="col-lg-12">
+      <div class="skills-row">
+        {% for skill in advanced_skills %}
+          <img src="{{ skill.logop }}" alt="{{ skill.name }}" title="{{ skill.name }}">
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
 
-      {% if intermediate_skills.size > 0 %}
-      <tr>
-        <td>Intermediate</td>
-        <td>
-          {% for skill in intermediate_skills %}
-            {{ skill.name }}{% if forloop.last == false %}, {% endif %}
-          {% endfor %}
-        </td>
-      </tr>
-      {% endif %}
+  {% if intermediate_skills.size > 0 %}
+  <h4 class="mb-4">Intermediate</h4>
+  <div class="row justify-content-center mb-4">
+    <div class="col-lg-12">
+      <div class="skills-row">
+        {% for skill in intermediate_skills %}
+          <img src="{{ skill.logop }}" alt="{{ skill.name }}" title="{{ skill.name }}">
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
 
-      {% if good_skills.size > 0 %}
-      <tr>
-        <td>Good</td>
-        <td>
-          {% for skill in good_skills %}
-            {{ skill.name }}{% if forloop.last == false %}, {% endif %}
-          {% endfor %}
-        </td>
-      </tr>
-      {% endif %}
-
-    </tbody>
-  </table>
+  {% if good_skills.size > 0 %}
+  <h4 class="mb-4">Good</h4>
+  <div class="row justify-content-center mb-4">
+    <div class="col-lg-12">
+      <div class="skills-row">
+        {% for skill in good_skills %}
+          <img src="{{ skill.logop }}" alt="{{ skill.name }}" title="{{ skill.name }}">
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
 
   <!-- <div class="row">
     <div class="col-6">
