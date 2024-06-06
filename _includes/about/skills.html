@@ -10,9 +10,9 @@
       </tr>
     </thead>
     <tbody>
-      {% assign advanced_skills = site.data.skills | where: "level", "adv" %}
-      {% assign intermediate_skills = site.data.skills | where: "level", "inter" %}
-      {% assign good_skills = site.data.skills | where: "level", "good" %}
+      {% assign advanced_skills = include.source | where: "level", "adv" %}
+      {% assign intermediate_skills = include.source | where: "level", "inter" %}
+      {% assign good_skills = include.source | where: "level", "good" %}
       
       <tr>
         <td>Advanced</td>
