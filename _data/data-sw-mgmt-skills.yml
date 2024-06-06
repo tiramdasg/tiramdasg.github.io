@@ -6,6 +6,10 @@
   level: inter
   logop: ../../assets/images/skills-images/jira.png
 
+- name: Trello
+  level: inter
+  logop: ../../assets/images/skills-images/trello.png
+
 - name: SonarQube
   level: inter
   logop: ../../assets/images/skills-images/sonar.png

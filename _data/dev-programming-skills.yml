@@ -1,50 +1,71 @@
 - name: Python
   level: adv
+  logop: ../../assets/images/skills-images/python.png
 
 - name: HTML
   level: adv
+  logop: ../../assets/images/skills-images/html.png
 
-- name: CSS/SCSS
+- name: CSS
   level: adv
+  logop: ../../assets/images/skills-images/css.png
+
+- name: SCSS
+  level: adv
+  logop: ../../assets/images/skills-images/scss.png
 
 - name: Java
   level: adv
+  logop: ../../assets/images/skills-images/java.png
 
 - name: TypeScript
   level: adv
+  logop: ../../assets/images/skills-images/typescript.png
 
 - name: Bootstrap
   level: adv
+  logop: ../../assets/images/skills-images/bootstrap.png
 
 - name: JSON
   level: adv
+  logop: ../../assets/images/skills-images/json.jpeg
 
 - name: Spring Boot
   level: adv
+  logop: ../../assets/images/skills-images/springboot.png
 
 - name: Angular
   level: adv
+  logop: ../../assets/images/skills-images/angular.png
 
 - name: Docker
   level: inter
+  logop: ../../assets/images/docker.png
 
 - name: NodeJS
   level: inter
+  logop: ../../assets/images/skills-images/nodejs.png
 
 - name: JavaScript
   level: good
+  logop: ../../assets/images/skills-images/javascript.png
 
 - name: jQuery
   level: good
+  logop: ../../assets/images/skills-images/jquery.png
 
 - name: R
   level: good
+  logop: ../../assets/images/skills-images/r.png
 
 - name: Apache Kafka
   level: good
+  logop: ../../assets/images/skills-images/apachekafka.png
 
 - name: Apache Flink
   level: good
+  logop: ../../assets/images/skills-images/apacheflink.png
 
 - name: Julia
   level: good
+  logop: ../../assets/images/skills-images/julia.jpg
