@@ -73,9 +73,9 @@ form button:hover {
     padding: 5px 0;
     position: absolute;
     z-index: 1;
-    bottom: 125%; /* Position the tooltip above the image */
+    bottom: 100%; /* Position the tooltip above the image */
     left: 50%;
-    margin-left: -60px;
+    transform: translateX(-50%);
     opacity: 0;
     transition: opacity 0.3s;
 }
