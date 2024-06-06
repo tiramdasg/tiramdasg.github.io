@@ -2,7 +2,7 @@
 
   <h2 class="mb-3">{{ include.title }}</h2>
   
-  <table>
+  <table class="custom-table">
     <thead>
       <tr>
         <th>Category</th>
@@ -13,7 +13,8 @@
       {% assign advanced_skills = include.source | where: "level", "adv" %}
       {% assign intermediate_skills = include.source | where: "level", "inter" %}
       {% assign good_skills = include.source | where: "level", "good" %}
-      
+
+      {% if advanced_skills.size > 0 %}
       <tr>
         <td>Advanced</td>
         <td>
@@ -22,6 +23,9 @@
           {% endfor %}
         </td>
       </tr>
+      {% endif %}
+
+      {% if advanced_skills.size > 0 %}
       <tr>
         <td>Intermediate</td>
         <td>
@@ -30,6 +34,9 @@
           {% endfor %}
         </td>
       </tr>
+      {% endif %}
+
+      {% if advanced_skills.size > 0 %}
       <tr>
         <td>Good</td>
         <td>
@@ -38,6 +45,8 @@
           {% endfor %}
         </td>
       </tr>
+      {% endif %}
+      
     </tbody>
   </table>
 

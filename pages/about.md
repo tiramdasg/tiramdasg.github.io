@@ -18,6 +18,14 @@ Some of my Hobbies are:
 - Portrait Photography
 - Working out
 
+## Languages
+* English (C2, Proficient User)
+* Korean (B2, Independent User)
+* German (B1.1, Independent User)
+* Japanese (A1, Basic User)
+* Hindi, Telugu (Native)
+<!-- CEFR descriptions -->
+
 <!-- education -->
 <div class="row">
 {% include about/skills.html title="Development and Programming" source=site.data.dev-programming-skills %}
