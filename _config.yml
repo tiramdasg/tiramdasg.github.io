@@ -3,7 +3,7 @@ title               : Brew & Bytes
 description         : >-
                       I am Geethika Tiramdas, I turn coffee :coffee: into code, and never broke production.
                       I am a versatile tech enthusiast specializing in Security 🔐, Machine Learning 🖥️, AI 🤖, Full Stack Development 🕸️,
-                      and Data Science💾. From building digital fortresses 🏰 to teaching machines to think 💭, I innovate solutions 
+                      and Data Science 💾. From building digital fortresses 🏰 to teaching machines to think 💭, I innovate solutions 
                       that provide industrial solutions. Dive in and discover how we can traverse the future of technology together 🧑‍🤝‍🧑!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : tiramdasg/tiramdasg.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
