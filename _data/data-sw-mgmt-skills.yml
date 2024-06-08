@@ -32,7 +32,7 @@
 
 - name: MS Powerpoint
   level: adv
-  logop: ../../assets/images/skills-images/msppt.jpeg
+  logop: ../../assets/images/skills-images/msppt.png
 
 - name: PostgreSQL
   level: inter
