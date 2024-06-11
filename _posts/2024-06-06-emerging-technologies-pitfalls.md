@@ -6,7 +6,7 @@ color: secondary
 description:
 ---
 
-In the fast-paced world of technology, established firms must navigate numerous risks and challenges to capitalize on emerging technologies. This blog explores key strategies to avoid common pitfalls and leverage new technologies effectively, as outlined in the work of Geethika Tiramdas.
+In the fast-paced world of technology, established firms must navigate numerous risks and challenges to capitalize on emerging technologies. This blog explores key strategies to avoid common pitfalls and leverage new technologies effectively.
 
 ![emerging-tech](../assets/images/emerging-tech-1.png)
 
