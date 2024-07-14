@@ -8,7 +8,7 @@ description: A federated sentiment analysis project using big data concepts. Par
 ---
 
 # Federated Sentiment Analysis
-**Currently in Progress**
+**Apr 2024 — July 2024**
 
 Sentiment analysis is a fascinating area within natural language processing (NLP) that delves into identifying, extracting, and quantifying emotions and opinions expressed in written text. In my current project, I aimed to develop a system capable of analyzing sentiment from Reddit comments, focusing on whether sentiments towards specific keywords like "Trump" or "Biden" are positive or negative.
 
@@ -19,8 +19,8 @@ The low level implementation looks like:
 This project leverages federated learning, a cutting-edge approach in machine learning. Instead of relying on a centralized model, federated learning involves distributing data across multiple clients. Each client trains a local model, which is then aggregated into a global model. This methodology enhances privacy and reduces the need for massive data transfers, making it ideal for large-scale sentiment analysis tasks.
 
 ## Data and Tools
-I used the Pushshift Reddit Dataset, specifically focusing on comments from April 2019. This dataset is huge with 165 GB, so I only used a portion of it to make our project manageable. 
-Apache Kafka was used to manage the data stream, feeding it into Apache Flink for processing. The sentiment analysis models were trained using TensorFlow Federated, a framework tailored for federated learning.
+I used the Pushshift Reddit Dataset, specifically focusing on comments from April 2019. This dataset is huge with 165 GB, so I only used a portion of it between April 1, 2019 to April 17, 2019 to make our project manageable. 
+Apache Kafka was used to manage the data stream, feeding it into Apache Flink for processing. The sentiment analysis models were trained using PyTorch.
 
 ## Implementation
 The implementation is divided into 2 main stages.
@@ -36,13 +36,19 @@ The implementation is divided into 2 main stages.
 2. Cloud Deployment: deploy the solution onGoogle Cloud Platform, using Docker containers to ensure scalability and reliability.
 3. Iterative Training: enable multiple training iterations to refine the sentiment analysis models continually.
 
-## Expected Outcomes
-The project aims to produce a robust sentiment analysis system capable of adapting to new data over time. The iterative training approach ensures that the model remains accurate as more Reddit comments are processed. Additinally, the project highlights the advantages of federated learning in managing large-scale NLP tasks while maintaining data privacy.
+The final structure looks like this:
+![structure](../assets/images/big_data_architechture_final.png)
+
+The data stream is as follows:
+![datastream](../assets/images/big_data_data_stream_final.png)
+
+## Outcomes
+The project produces a robust sentiment analysis system capable of adapting to new data over time. The iterative training approach ensures that the model remains accurate as more Reddit comments are processed. Additionally, the project also gives sentiment of world map on data from reddit comments, and track or untrack keywords selected by the user.
 
 ## My Contributions
 As the team coordinator, I gained valuable leadership experience. I discovered my ability to effectively coordinate with team members, assign tasks, resolve conflicts, and motivate the team. Additionally, I was adept at identifying and addressing any issues that arose. 
 
-My contributions include setting up Kafka and Flink, documenting and making presentations for interim and final evaluation, and deploying to Cloud.
+My contributions include setting up Kafka and Flink, Preprocessing and Filtering in Flink, Sending batched data on timestamp from dataprovider to Kafka, documenting and making presentations for interim and final evaluation, and deploying to Cloud.
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/tiramdasg/bored-coyote.git" text="See the Project" %}
