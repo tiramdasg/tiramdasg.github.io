@@ -1,5 +1,5 @@
 ---
-name: Training Example Reproduction and Vulnerability Assessment on GitHub’s Copilot
+name: Training Example Reproduction and Vulnerability Assessment on LLM-Generated Code
 tools: [Python, CodeQL, CWE, OWASP, GitHub Copilot, REST API, LateX]
 image: 
 style: fill
@@ -7,7 +7,7 @@ color: info
 description: A research project to determine if Copilot reproduces training data in its output and inject new vulnerabilities to the code.
 ---
 
-# Training Example Reproduction and Vulnerability Assessment on GitHub’s Copilot
+# Training Example Reproduction and Vulnerability Assessment on LLM-Generated Code
 **Currently in Progress - Submitted to University [TUHH]**
 
 GitHub Copilot, an AI-driven code completion tool developed by OpenAI, has revolutionized the way developers write code. However, with great power comes great responsibility. In my recent project, I set out to examine the security and privacy aspects of Copilot, focusing on its vulnerability to specific types of attacks and weaknesses.
