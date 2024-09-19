@@ -2,7 +2,7 @@
 title: The Art of Clean Code - A Journey to Better Programming
 tags: [clean code, maintainable, coding practice]
 style: fill
-color: dark
+color: secondary
 description: Writing clean, maintainable code is not just a preference — it's a necessity.
 ---
 
