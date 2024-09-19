@@ -1,5 +1,5 @@
 ---
-name: Vulnerabilities and Insecure Training Data Memorisation in GitHub Copilot: Does Context Play a Role?
+name: Vulnerabilities and Insecure Training Data Memorisation in GitHub Copilot - Does Context Play a Role?
 tools: [Python, CodeQL, CWE, OWASP, GitHub Copilot, REST API, LateX]
 image: 
 style: fill
