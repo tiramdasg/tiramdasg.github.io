@@ -8,6 +8,7 @@ description: A decentralised voting system using blockchain smart contracts. Par
 ---
 
 # Blockchain-based Decentralized Voting System
+**Apr 2023 — Jul 2023**
 
 Within this project, the goal is to implement a decentralized, high-availability voting system using smart contracts on a private Ethereum blockchain. 
 The system should be able to authenticate users, register them for voting on the network, handle the actual voting process and finally provide 

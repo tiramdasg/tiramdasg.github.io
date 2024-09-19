@@ -8,7 +8,7 @@ description: A federated sentiment analysis project using big data concepts. Par
 ---
 
 # Federated Sentiment Analysis
-**Apr 2024 — July 2024**
+**Apr 2024 — Jul 2024**
 
 Sentiment analysis is a fascinating area within natural language processing (NLP) that delves into identifying, extracting, and quantifying emotions and opinions expressed in written text. In my current project, I aimed to develop a system capable of analyzing sentiment from Reddit comments, focusing on whether sentiments towards specific keywords like "Trump" or "Biden" are positive or negative.
 

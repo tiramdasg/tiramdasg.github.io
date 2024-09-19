@@ -8,7 +8,7 @@ description: A research project to determine if Copilot reproduces training data
 ---
 
 # Vulnerabilities and Insecure Training Data Memorisation in GitHub Copilot: Does Context Play a Role?
-**Currently in Progress - Submitted to University [TUHH]**
+**Feb 2024 — Sep 2024 Submitted to University [TUHH]**
 
 GitHub Copilot, an AI-driven code completion tool developed by OpenAI, has revolutionized the way developers write code. However, with great power comes great responsibility. In my recent project, I set out to examine the security and privacy aspects of Copilot, focusing on its vulnerability to specific types of attacks and weaknesses.
 
