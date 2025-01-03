@@ -4,7 +4,7 @@ tools: [ML, Python, Cybersecurity, Data Analysis]
 image: 
 style: fill
 color: info
-description: A decentralised voting system using blockchain smart contracts. Part of the Project Based Learning module of the Advanced Internet Computing course at the TUHH, SoSe, 2023.
+description: Master Thesis at TUHH.
 ---
 
 # Developing CAN (Control Area Network) Intrusion detection System (IDS) using Machine Learning with Datasets based on Real Life Traffic Scenarios
