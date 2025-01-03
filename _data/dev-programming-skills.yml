@@ -38,6 +38,10 @@
   level: adv
   logop: ../../assets/images/skills-images/angular.png
 
+- name: PowerBI
+  level: adv
+  logop: ../../assets/images/skills-images/power-bi-icon.png
+
 - name: Docker
   level: inter
   logop: ../../assets/images/docker.png

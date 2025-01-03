@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Aspiring Software Engineer Specialist with full capabilities of integrating technologies in a secure and transparent manner. Acquiring latest skills to achieve this through education, projects, research, and work experience. Passionate about tackling challenges with tailored, innovative personalized solutions while learning and contributing. <br>
+IT professional with 2 years of experience in software development, focusing on data analysis, secure technology integration, and automation. Proven ability to work with international teams, streamline processes, and deliver reliable solutions. Passionate about learning new technologies and applying innovative ideas to solve complex challenges. Dedicated to contributing to impactful projects and growing within the energy sector. <br>
 Some of my Hobbies are:
 - Wrote poems in an Anthology “Stuttering of Young Adults” published in 2021.
 - Developing, publishing, and maintenance of [my blogging site](https://betweentheverses.in) since March, 2020.
