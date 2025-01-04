@@ -8,9 +8,9 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-IT professional with 2 years of experience in software development, focusing on data analysis, secure technology integration, and automation. Proven ability to work with international teams, streamline processes, and deliver reliable solutions. Passionate about learning new technologies and applying innovative ideas to solve complex challenges. Dedicated to contributing to impactful projects and growing within the energy sector. <br>
+IT professional with 2 years of experience in software development, focusing on data analysis, secure technology integration, and automation. Proven ability to work with international teams, streamline processes, and deliver reliable solutions. Passionate about learning new technologies and applying innovative ideas to solve complex challenges. Dedicated to contributing to impactful projects and attaining relevant skills. <br>
 Some of my Hobbies are:
-- Wrote poems in an Anthology “Stuttering of Young Adults” published in 2021.
+- Wrote poems for a book “Stuttering of Young Adults” published in 2021.
 - Developing, publishing, and maintenance of [my blogging site](https://betweentheverses.in) since March, 2020.
 - Listening to electronic pop music / finding new music.
 - Reading romantic comedy, fiction (science, thriller) novels.
