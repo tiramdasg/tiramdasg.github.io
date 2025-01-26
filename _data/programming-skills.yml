@@ -1,0 +1,59 @@
+- name: Python
+  level: adv
+  logop: ../../assets/images/skills-images/python.png
+
+- name: HTML
+  level: adv
+  logop: ../../assets/images/skills-images/html.png
+
+- name: CSS/SCSS
+  level: adv
+  logop: ../../assets/images/skills-images/css.png
+
+- name: Java
+  level: adv
+  logop: ../../assets/images/skills-images/java.png
+
+- name: TypeScript
+  level: adv
+  logop: ../../assets/images/skills-images/typescript.png
+
+- name: JavaScript
+  level: adv
+  logop: ../../assets/images/skills-images/javascript.png
+
+- name: JSON
+  level: adv
+  logop: ../../assets/images/skills-images/json.png
+
+- name: Spring Boot
+  level: adv
+  logop: ../../assets/images/skills-images/springboot.png
+
+- name: Angular
+  level: adv
+  logop: ../../assets/images/skills-images/angular.png
+
+- name: Node.js
+  level: adv
+  logop: ../../assets/images/skills-images/nodejs.png
+
+- name: R
+  level: adv
+  logop: ../../assets/images/skills-images/r.png
+
+- name: Julia
+  level: adv
+  logop: ../../assets/images/skills-images/julia.png
+
+- name: YAML
+  level: adv
+  logop: ../../assets/images/skills-images/yml.png
+
+- name: jQuery
+  level: adv
+  logop: ../../assets/images/skills-images/jquery.png
+
+- name: Bootstrap
+  level: adv
+  logop: ../../assets/images/skills-images/bootstrap.png

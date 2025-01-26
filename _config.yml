@@ -5,6 +5,10 @@ description         : >-
                       I am a professional software developer specializing in Automation 🪛, Machine Learning 🖥️, AI 🤖, Full Stack Development 🕸️,
                       and Data Science 💾. I love working with global teams🤝, solving complex challenges 🧮, and embracing new technologies 👩‍💻.
                       Get in touch to discuss how we can traverse the future of technology together 🧑‍🤝‍🧑!
+                      I resonate with:
+                      - "When the facts change, we change our minds" - John Maynard Keynes
+                      - "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine
+                      - "Code is like humor. When you have to explain it, it’s bad." - Cory House
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : tiramdasg/tiramdasg.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

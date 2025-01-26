@@ -1,0 +1,15 @@
+- name: Windows
+  level: adv
+  logop: ../../assets/images/skills-images/windows.png
+
+- name: Linux
+  level: adv
+  logop: ../../assets/images/skills-images/linux.png
+
+- name: MacOS
+  level: adv
+  logop: ../../assets/images/skills-images/python.png
+
+- name: Arduino
+  level: adv
+  logop: ../../assets/images/skills-images/arduino.png
