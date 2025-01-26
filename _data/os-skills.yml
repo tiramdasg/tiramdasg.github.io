@@ -8,7 +8,7 @@
 
 - name: MacOS
   level: adv
-  logop: ../../assets/images/skills-images/python.png
+  logop: ../../assets/images/skills-images/macos.png
 
 - name: Arduino
   level: adv
