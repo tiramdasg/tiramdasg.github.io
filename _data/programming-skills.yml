@@ -24,7 +24,7 @@
 
 - name: JSON
   level: adv
-  logop: ../../assets/images/skills-images/json.png
+  logop: ../../assets/images/skills-images/json.jpeg
 
 - name: Spring Boot
   level: adv
@@ -44,7 +44,7 @@
 
 - name: Julia
   level: adv
-  logop: ../../assets/images/skills-images/julia.png
+  logop: ../../assets/images/skills-images/julia.jpg
 
 - name: YAML
   level: adv
