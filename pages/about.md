@@ -38,7 +38,7 @@ Some of my Hobbies are:
 </div> 
 
 <div class="row">
-{% include about/skills.html title="Operating Systems" source=site.data.data-sw-mgmt-skills %}
+{% include about/skills.html title="Systems" source=site.data.os-skills %}
 </div>
 
 <!-- education -->
