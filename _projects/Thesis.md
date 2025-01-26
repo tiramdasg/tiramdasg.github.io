@@ -1,6 +1,6 @@
 ---
 name: Developing an Intrusion detection System (IDS) for Control Area Networks (CAN) using Machine Learning based on Real Life Traffic Datasets
-tools: [ML, Python, Cybersecurity, Data Analysis]
+tools: [ML, Python, Cybersecurity, Data Analysis, Latex, PyTorch, Pandas, Matplotlib]
 image: 
 style: fill
 color: info
