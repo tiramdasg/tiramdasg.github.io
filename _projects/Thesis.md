@@ -1,5 +1,5 @@
 ---
-name: Developing CAN (Control Area Network) Intrusion detection System (IDS) using Machine Learning with Datasets based on Real Life Traffic Scenarios
+name: Developing an Intrusion detection System (IDS) for Control Area Networks (CAN) using Machine Learning based on Real Life Traffic Datasets
 tools: [ML, Python, Cybersecurity, Data Analysis]
 image: 
 style: fill
@@ -7,7 +7,7 @@ color: info
 description: Master Thesis at TUHH.
 ---
 
-# Developing CAN (Control Area Network) Intrusion detection System (IDS) using Machine Learning with Datasets based on Real Life Traffic Scenarios
+# Developing an Intrusion detection System (IDS) for Control Area Networks (CAN) using Machine Learning based on Real Life Traffic Datasets
 **Dec 2024 — Jun 2025**
 
 More details soon.
