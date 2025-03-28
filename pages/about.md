@@ -18,14 +18,14 @@ Some of my Hobbies are:
 - Playing Cricket
 - Travelling
 - Badminton
-- Organiser of meet-up events 
+- Organiser of meet-up events
 
 ## Languages
-* English (C2, Native Proficiency)
-* Korean (B2, Advanced Proficiency)
-* German (B1.1, Intermediate Proficiency)
-* Japanese (A1, Beginner Proficiency)
-* Hindi, Telugu (Native)
+* **English** (C2, Native Proficiency)
+* **Korean** (B2, Advanced Proficiency)
+* **German** (B1.1, Intermediate Proficiency)
+* **Japanese** (A1, Beginner Proficiency)
+* **Hindi**, **Telugu** (Native)
 <!-- CEFR descriptions -->
 
 <!-- skills -->
