@@ -18,6 +18,14 @@
   level: inter
   logop: ../../assets/images/skills-images/sonar-lint.png
 
+- name: Ansible
+  level: inter
+  logop: ../../assets/images/skills-images/ansible.png
+
+- name: Kubernetes
+  level: inter
+  logop: ../../assets/images/skills-images/kubernetes.png
+
 - name: Notion
   level: adv
   logop: ../../assets/images/skills-images/notion.png
