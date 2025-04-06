@@ -2,6 +2,14 @@
   level: adv
   logop: ../../assets/images/docker.png
 
+- name: Ansible
+  level: adv
+  logop: ../../assets/images/skills-images/ansible.png
+
+- name: Kubernetes
+  level: adv
+  logop: ../../assets/images/skills-images/kubernetes.png
+
 - name: Apache Kafka
   level: adv
   logop: ../../assets/images/skills-images/apachekafka.png
