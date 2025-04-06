@@ -2,18 +2,18 @@
   from: Apr 2022
   to: Present
   location: Hamburg University of Technology [TUHH], Germany
-  type: 
-  description: "Specialisation - Secure & Dependable IT Systems
-                
-                Focus: Secure Software Engineering, Cybersecurity Data Science, 
-                Advanced Internet Computing, Big Data, Design of Dependable Systems, Causal Data Science for Business Analytics, 
-                Innovation Management."
+  type: ""
+  description: "Specialisation - Secure & Dependable IT Systems"
+  focus: "Focus: Secure Software Engineering, Cybersecurity Data Science, 
+          Advanced Internet Computing, Big Data, Design of Dependable Systems, Causal Data Science for Business Analytics, 
+          Innovation Management."
 
 
 - title: Bachelor of Engineering, Electronics and Communication Engineering
   from: Jun 2015
   to: May 2019
   location: Osmania University, India
-  type: 
-  description: "Focus: Object-Oriented Programming through C++, Data Communications and Computer Networks, Satellite Communication, 
-                Antennas, Industrial Administration & Financial Management."
+  type: ""
+  description: ""
+  focus: "Focus: Object-Oriented Programming through C++, Data Communications and Computer Networks, Satellite Communication, 
+          Antennas, Industrial Administration & Financial Management."
