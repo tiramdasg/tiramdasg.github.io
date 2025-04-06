@@ -28,6 +28,16 @@ Some of my Hobbies are:
 * **Hindi**, **Telugu** (Native)
 <!-- CEFR descriptions -->
 
+<!-- work experience -->
+<div class="row">
+{% include about/timeline.html title="Experience" source=site.data.work-experience %}
+</div>
+
+<!-- education -->
+<div class="row">
+{% include about/timeline.html title="Education" source=site.data.timeline-edu %}
+</div>
+
 <!-- skills -->
 <div class="row">
 {% include about/skills.html title="Programming" source=site.data.programming-skills %}
@@ -39,14 +49,4 @@ Some of my Hobbies are:
 
 <div class="row">
 {% include about/skills.html title="Systems" source=site.data.os-skills %}
-</div>
-
-<!-- education -->
-<div class="row">
-{% include about/timeline.html title="Education" source=site.data.timeline-edu %}
-</div>
-
-<!-- work experience -->
-<div class="row">
-{% include about/timeline.html title="Employment History" source=site.data.work-experience %}
 </div>
