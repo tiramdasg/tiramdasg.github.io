@@ -3,11 +3,12 @@
   to: Present
   location: NXP Semiconductors Germany GmbH, Hamburg, Germany
   type: Part-Time
-  description: "Automated KPI analytics and reporting workflows using Python and REST APIs, reducing manual reporting time by 85% across 7+ global projects. 
-                Ensured 100% ticket resolution relating to engineering lifecycle management tool.
-                Assisted with migration from IBM DOORS9 to ELM7, reducing manual work by 10+ hrs/week.
-                Trained and supported 50+ stakeholders across 7 teams, resulting in improved onboarding and reduced tool-related issues by 30%.
-                Created cross-platform REST APIs (Linux & Windows) to automate test plan status updates, eliminating redundancy and improving synchronization between testing teams."
+  description: 
+    - Automated KPI analytics and reporting workflows using Python and REST APIs, reducing manual reporting time by 85% across 7+ global projects. 
+    - Ensured 100% ticket resolution relating to engineering lifecycle management tool.
+    - Assisted with migration from IBM DOORS9 to ELM7, reducing manual work by 10+ hrs/week.
+    - Trained and supported 50+ stakeholders across 7 teams, resulting in improved onboarding and reduced tool-related issues by 30%.
+    - Created cross-platform REST APIs (Linux & Windows) to automate test plan status updates, eliminating redundancy and improving synchronization between testing teams.
 
 
 - title: English Tutor
@@ -15,8 +16,8 @@
   to: Feb 2022
   location: Technical University of Hamburg [TUHH], Hamburg, Germany
   type: Voluntary Work
-  description: "In an informal setting: interact, converse and support international students and help them 
-                practice English, get to know and share cultures, food, languages and traditions."
+  description: 
+    - In an informal setting: interact, converse and support international students and help them practice English, get to know and share cultures, food, languages and traditions.
 
 
 - title: Systems Engineer - Full Stack Developer
@@ -24,11 +25,12 @@
   to: Aug 2021
   location: Infosys Limited, Hyderabad & Mysore, India
   type: Full Time
-  description: "Built and deployed two enterprise-grade web platforms with Spring Boot REST APIs and SQL RDBMS backends, enabling dynamic data flows based on user roles/locations across secure L/WAN. 
-                Reduced frontend dev time by 25% via reusable components; boosted unit test coverage by 30% through Test-Driven Development (TDD) with JUnit. 
-                Integrated SonarQube for static code analysis, enforcing Clean Code standards and reducing production bugs by 20%. 
-                Containerized services using Docker & Kubernetes for CI/CD pipelines and SCM on Git improving scalability, reducing deployment cycles by 40%. 
-                Participated in Agile sprints, scrum calls, and led performance tuning for secure, high-throughput systems; coordinated with QA teams for 100% test coverage and zero critical bugs at release."
+  description: 
+    - Built and deployed two enterprise-grade web platforms with Spring Boot REST APIs and SQL RDBMS backends, enabling dynamic data flows based on user roles/locations across secure L/WAN. 
+    - Reduced frontend dev time by 25% via reusable components; boosted unit test coverage by 30% through Test-Driven Development (TDD) with JUnit. 
+    - Integrated SonarQube for static code analysis, enforcing Clean Code standards and reducing production bugs by 20%. 
+    - Containerized services using Docker & Kubernetes for CI/CD pipelines and SCM on Git improving scalability, reducing deployment cycles by 40%. 
+    - Participated in Agile sprints, scrum calls, and led performance tuning for secure, high-throughput systems; coordinated with QA teams for 100% test coverage and zero critical bugs at release.
 
 - title: Web Developer Intern
   from: Jun 2019

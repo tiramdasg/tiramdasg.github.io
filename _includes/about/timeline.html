@@ -9,7 +9,12 @@
           <h2>{{ item.title }}</h2>
           <h6 class="date">{{ item.from }} — {{ item.to }}, {{item.location}}</h6>
           <h6 style="font-style: italic;">{{item.type}}</h6>
-          <p>{{ item.description }}</p>
+          <!-- <p>{{ item.description }}</p> -->
+          <ul>
+            {% for point in item.description %}
+              <li>{{ point }}</li>
+            {% endfor %}
+          </ul>
           <p>{{ item.focus }}</p>
         </div>
       </div>

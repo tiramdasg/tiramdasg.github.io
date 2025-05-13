@@ -8,10 +8,10 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-IT professional with 2 years of experience in software development, focusing on data analysis, secure technology integration, and automation. Proven ability to work with international teams, streamline processes, and deliver reliable solutions. Passionate about learning new technologies and applying innovative ideas to solve complex challenges. Dedicated to contributing to impactful projects and attaining relevant skills. <br>
+Curious Software Engineer with hands-on experience in R&D and full-stack development. Skilled in Python, RESTful APIs, automation, ML, cloud platforms, and SCM using Git. I thrive on solving problems with creative solutions and excel at collaborating to drive meaningful contributions. Committed to continuous learning and clear stakeholder communication. <br>
 
 ### A Day of My Life
-<img src="{{ '/assets/images/day_of_life_chart.png' | relative_url }}" alt="A Day of My Life" style="max-width:200px;">
+<img src="{{ '/assets/images/day_of_life_chart.png' | relative_url }}" alt="A Day of My Life" style="max-width:400px;">
 
 ## Languages
 
