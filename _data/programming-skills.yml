@@ -6,9 +6,9 @@
   level: adv
   logop: ../../assets/images/skills-images/html.png
 
-- name: CSS/SCSS
-  level: adv
-  logop: ../../assets/images/skills-images/css.png
+# - name: CSS/SCSS
+#   level: adv
+#   logop: ../../assets/images/skills-images/css.png
 
 - name: Java
   level: adv
@@ -22,38 +22,42 @@
   level: adv
   logop: ../../assets/images/skills-images/javascript.png
 
-- name: JSON
+- name: SQL
   level: adv
-  logop: ../../assets/images/skills-images/json.jpeg
+  logop: ../../assets/images/mysql.png
 
-- name: Spring Boot
-  level: adv
-  logop: ../../assets/images/skills-images/springboot.png
+# - name: JSON
+#   level: adv
+#   logop: ../../assets/images/skills-images/json.jpeg
 
-- name: Angular
-  level: adv
-  logop: ../../assets/images/skills-images/angular.png
+# - name: Spring Boot
+#   level: adv
+#   logop: ../../assets/images/skills-images/springboot.png
 
-- name: Node.js
-  level: adv
-  logop: ../../assets/images/skills-images/nodejs.png
+# - name: Angular
+#   level: adv
+#   logop: ../../assets/images/skills-images/angular.png
 
-- name: R
-  level: adv
-  logop: ../../assets/images/skills-images/r.png
+# - name: Node.js
+#   level: adv
+#   logop: ../../assets/images/skills-images/nodejs.png
 
-- name: Julia
-  level: adv
-  logop: ../../assets/images/skills-images/julia.jpg
+# - name: R
+#   level: adv
+#   logop: ../../assets/images/skills-images/r.png
 
-- name: YAML
-  level: adv
-  logop: ../../assets/images/skills-images/yml.png
+# - name: Julia
+#   level: adv
+#   logop: ../../assets/images/skills-images/julia.jpg
 
-- name: jQuery
-  level: adv
-  logop: ../../assets/images/skills-images/jquery.png
+# - name: YAML
+#   level: adv
+#   logop: ../../assets/images/skills-images/yml.png
 
-- name: Bootstrap
-  level: adv
-  logop: ../../assets/images/skills-images/bootstrap.png
+# - name: jQuery
+#   level: adv
+#   logop: ../../assets/images/skills-images/jquery.png
+
+# - name: Bootstrap
+#   level: adv
+#   logop: ../../assets/images/skills-images/bootstrap.png

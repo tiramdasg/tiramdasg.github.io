@@ -1,0 +1,23 @@
+- name: Spring Boot
+  level: adv
+  logop: ../../assets/images/skills-images/springboot.png
+
+- name: Angular
+  level: adv
+  logop: ../../assets/images/skills-images/angular.png
+
+- name: Node.js
+  level: adv
+  logop: ../../assets/images/skills-images/nodejs.png
+
+- name: Bootstrap
+  level: adv
+  logop: ../../assets/images/skills-images/bootstrap.png
+
+- name: REST API
+  level: adv
+  logop: ../../assets/images/skills-images/restapi.png
+
+- name: React
+  level: adv
+  logop: ../../assets/images/skills-images/react.png

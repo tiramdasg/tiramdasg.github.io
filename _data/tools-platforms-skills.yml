@@ -2,35 +2,35 @@
   level: adv
   logop: ../../assets/images/docker.png
 
-- name: Ansible
-  level: adv
-  logop: ../../assets/images/skills-images/ansible.png
+# - name: Ansible
+#   level: adv
+#   logop: ../../assets/images/skills-images/ansible.png
 
 - name: Kubernetes
   level: adv
   logop: ../../assets/images/skills-images/kubernetes.png
 
-- name: Apache Kafka
-  level: adv
-  logop: ../../assets/images/skills-images/apachekafka.png
+# - name: Apache Kafka
+#   level: adv
+#   logop: ../../assets/images/skills-images/apachekafka.png
 
-- name: Apache Flink
-  level: adv
-  logop: ../../assets/images/skills-images/apacheflink.png
+# - name: Apache Flink
+#   level: adv
+#   logop: ../../assets/images/skills-images/apacheflink.png
 
-- name: Power BI
-  level: adv
-  logop: ../../assets/images/skills-images/power-bi-icon.png
+# - name: Power BI
+#   level: adv
+#   logop: ../../assets/images/skills-images/power-bi-icon.png
 
-- name: MySQL
-  level: adv
-  logop: ../../assets/images/mysql.png
+# - name: MySQL
+#   level: adv
+#   logop: ../../assets/images/mysql.png
 
-- name: PostgreSQL
-  level: adv
-  logop: ../../assets/images/skills-images/postgresql.png
+# - name: PostgreSQL
+#   level: adv
+#   logop: ../../assets/images/skills-images/postgresql.png
 
-- name: Google Cloud Platform
+- name: Google Cloud Platform (GCP)
   level: adv
   logop: ../../assets/images/gcp.png
 
@@ -38,25 +38,25 @@
   level: adv
   logop: ../../assets/images/skills-images/vscode.png
 
-- name: Eclipse
-  level: adv
-  logop: ../../assets/images/skills-images/eclipse.jpg
+# - name: Eclipse
+#   level: adv
+#   logop: ../../assets/images/skills-images/eclipse.jpg
 
-- name: GitHub
+- name: Git
   level: adv
   logop: ../../assets/images/skills-images/github.png
 
-- name: Rstudio
-  level: adv
-  logop: ../../assets/images/skills-images/rstudio.png
+# - name: Rstudio
+#   level: adv
+#   logop: ../../assets/images/skills-images/rstudio.png
 
-- name: Pycharm
-  level: adv
-  logop: ../../assets/images/skills-images/pycharm.png
+# - name: Pycharm
+#   level: adv
+#   logop: ../../assets/images/skills-images/pycharm.png
 
-- name: ServiceNow
-  level: adv
-  logop: ../../assets/images/skills-images/servicenow.png
+# - name: ServiceNow
+#   level: adv
+#   logop: ../../assets/images/skills-images/servicenow.png
 
 - name: IBM ELM
   level: adv
@@ -74,17 +74,17 @@
   level: adv
   logop: ../../assets/images/skills-images/overleaf.png
 
-- name: MS Word
-  level: adv
-  logop: ../../assets/images/skills-images/msword.png
+# - name: MS Word
+#   level: adv
+#   logop: ../../assets/images/skills-images/msword.png
 
-- name: MS PowerPoint
-  level: adv
-  logop: ../../assets/images/skills-images/msppt.png
+# - name: MS PowerPoint
+#   level: adv
+#   logop: ../../assets/images/skills-images/msppt.png
 
-- name: MS Excel
-  level: adv
-  logop: ../../assets/images/skills-images/msexcel.png
+# - name: MS Excel
+#   level: adv
+#   logop: ../../assets/images/skills-images/msexcel.png
 
 - name: Trello
   level: adv
@@ -102,6 +102,6 @@
   level: adv
   logop: ../../assets/images/skills-images/sonar-lint.png
 
-- name: CollabNet
-  level: adv
-  logop: ../../assets/images/skills-images/collabnet.jpg
+# - name: CollabNet
+#   level: adv
+#   logop: ../../assets/images/skills-images/collabnet.jpg

@@ -1,0 +1,23 @@
+- name: Pandas
+  level: adv
+  logop: ../../assets/images/skills-images/pandas.svg
+
+- name: Scikit-Learn
+  level: adv
+  logop: ../../assets/images/skills-images/scikitlearn.png
+
+- name: TensorFlow
+  level: adv
+  logop: ../../assets/images/skills-images/tensorflow.png
+
+- name: PyTorch
+  level: adv
+  logop: ../../assets/images/skills-images/pytorch.png
+
+- name: Apache Kafka
+  level: adv
+  logop: ../../assets/images/skills-images/apachekafka.png
+
+- name: Apache Flink
+  level: adv
+  logop: ../../assets/images/skills-images/apacheflink.png

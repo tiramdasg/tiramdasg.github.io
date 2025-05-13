@@ -9,24 +9,20 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 IT professional with 2 years of experience in software development, focusing on data analysis, secure technology integration, and automation. Proven ability to work with international teams, streamline processes, and deliver reliable solutions. Passionate about learning new technologies and applying innovative ideas to solve complex challenges. Dedicated to contributing to impactful projects and attaining relevant skills. <br>
-Some of my Hobbies are:
-- Wrote poems for a book “Stuttering of Young Adults” published in 2021.
-- Developing, publishing, and maintenance of [my blogging site](https://betweentheverses.in) since March, 2020.
-<!-- - Listening to electronic pop music / finding new music. -->
-- Reading romantic comedy, fiction (science, thriller) novels.
-<!-- - Portrait Photography -->
-- Playing Cricket
-- Travelling
-- Badminton
-- Organiser of meet-up events
+
+### A Day of My Life
+<img src="{{ '/assets/images/day_of_life_chart.png' | relative_url }}" alt="A Day of My Life" style="max-width:200px;">
 
 ## Languages
-* **English** (C2, Native Proficiency)
-* **Korean** (B2, Advanced Proficiency)
-* **German** (B1.1, Intermediate Proficiency)
-* **Japanese** (A1, Beginner Proficiency)
-* **Hindi**, **Telugu** (Native)
-<!-- CEFR descriptions -->
+
+<table>
+  <tr><td><strong>English</strong> (Native)</td><td>⬤⬤⬤⬤⬤</td></tr>
+  <tr><td><strong>German</strong> (B1.1 - Actively Improving)</td><td>⬤⬤⬤⚪⚪</td></tr>
+  <tr><td><strong>Korean</strong> (Advanced, B2)</td><td>⬤⬤⬤⬤⚪</td></tr>
+  <tr><td><strong>Japanese</strong> (Beginner, A2)</td><td>⬤⬤⚪⚪⚪</td></tr>
+  <tr><td><strong>Telugu, Hindi</strong> (Native)</td><td>⬤⬤⬤⬤⬤</td></tr>
+</table>
+
 
 <!-- work experience -->
 <div class="row">
@@ -48,5 +44,9 @@ Some of my Hobbies are:
 </div> 
 
 <div class="row">
-{% include about/skills.html title="Systems" source=site.data.os-skills %}
+{% include about/skills.html title="AI & Data Engineering" source=site.data.ai-data-engg-skills %}
+</div>
+
+<div class="row">
+{% include about/skills.html title="Web Development" source=site.data.web-dev-skills %}
 </div>
