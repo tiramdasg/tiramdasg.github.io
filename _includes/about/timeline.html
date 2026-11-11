@@ -7,15 +7,16 @@
       <div class="timeline-item">
         <div class="content">
           <p>{{ item.title }}</p>
-          <p class="date">{{ item.from }} — {{ item.to }}, {{item.location}}</p>
+          <p class="date">{{ item.from }} — {{ item.to }}</p>
+          <p class="date">{{item.location}}</p>
           <p style="font-style: italic;">{{item.type}}</p>
           <!-- <p>{{ item.description }}</p> -->
-          <ul>
+          <!-- <ul>
             {% for point in item.description %}
               <li>{{ point }}</li>
             {% endfor %}
-          </ul>
-          <p>{{ item.focus }}</p>
+          </ul> -->
+          <!-- <p>{{ item.focus }}</p> -->
         </div>
       </div>
     {% endfor %}
