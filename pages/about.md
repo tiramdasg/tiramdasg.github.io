@@ -10,7 +10,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 Curious Software Engineer with hands-on experience in R&D and full-stack development. Skilled in Python, RESTful APIs, automation, ML, cloud platforms, and SCM using Git. I thrive on solving problems with creative solutions and excel at collaborating to drive meaningful contributions. Committed to continuous learning and clear stakeholder communication. <br>
 
 <section aria-labelledby="cv-heading" class="mb-4">
-  <h2 id="cv-heading" class="text-info mb-4">Curriculum Vitae</h2>
+  <h3 id="cv-heading" class="mb-4">Curriculum Vitae</h3>
   <ul class="list-unstyled" role="list">
     {% for item in site.data.work-experience %}
     <li class="row mb-4">
