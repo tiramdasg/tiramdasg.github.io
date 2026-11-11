@@ -1,10 +1,9 @@
 ### Site Settings ###
 title               : Brew & Bytes
 description         : >-
-                      I am Geethika Tiramdas, I turn coffee :coffee: into code, and never broke production.
-                      I am a professional software developer specializing in Automation 🪛, Machine Learning 🖥️ for Security, Full Stack Development 🕸️,
-                      and Data Analytics 💾. I love working with global teams🤝, solving complex challenges 🧮, and embracing new technologies 👩‍💻.
-                      Get in touch to discuss how we can traverse the future of technology together 🧑‍🤝‍🧑!
+                      <p>I am Geethika Tiramdas, I turn coffee :coffee: into code.
+                      I love working with global teams🤝, solving complex challenges 🧮, and embracing new technologies 👩‍💻.
+                      Get in touch to discuss how we can traverse the future of technology together 🧑‍🤝‍🧑!</p>
                       <p> I resonate with: </p> <p>"When the facts change, we change our minds" John Maynard Keynes.</p>
                       <p>"Programming isn't about what you know; it's about what you can figure out.” Chris Pine.</p>
                       <p>"Code is like humor. When you have to explain it, it’s bad." Cory House</p>
@@ -33,7 +32,7 @@ author:
   image             : assets/images/IMG-20240410-WA0019.jpg
   # behance           : your_username
 # dribbble          : your_username
-  email             : geethika.tiramdas@gmail.com
+  email             : tiramdasg@gmail.com
   # facebook          : your_username
   github            : tiramdasg
 # gitlab            : your_username

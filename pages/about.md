@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 4
 ---
 
 # **About Me**
@@ -46,6 +46,6 @@ Curious Software Engineer with hands-on experience in R&D and full-stack develop
   <tr><td><strong>Telugu, Hindi</strong> (Native)</td><td>⬤⬤⬤⬤⬤</td></tr>
 </table>
 
-### A Day of My Life
-<img src="{{ '/assets/images/day_of_life_chart.png' | relative_url }}" alt="A Day of My Life" style="max-width:400px;">
+<!-- ### A Day of My Life
+<img src="{{ '/assets/images/day_of_life_chart.png' | relative_url }}" alt="A Day of My Life" style="max-width:400px;"> -->
 
