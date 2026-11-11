@@ -9,15 +9,39 @@ weight: 4
 Hi I am **{{ site.author.name }}** :wave:,<br>
 Curious Software Engineer with hands-on experience in R&D and full-stack development. Skilled in Python, RESTful APIs, automation, ML, cloud platforms, and SCM using Git. I thrive on solving problems with creative solutions and excel at collaborating to drive meaningful contributions. Committed to continuous learning and clear stakeholder communication. <br>
 
+<section aria-labelledby="cv-heading" class="mb-4">
+  <h2 id="cv-heading" class="text-info mb-4">Curriculum Vitae</h2>
+  <ul class="list-unstyled" role="list">
+    {% for item in site.data.work-experience %}
+    <li class="row mb-4">
+      <div class="col-sm-3 mb-1 mb-sm-0">
+        {{ item.from | escape }}{% if item.to and item.to != empty %} — {{ item.to | escape }}{% endif %}
+      </div>
+      <div class="col-sm-9">
+        <h3 class="h5 mb-1">{{ item.title | escape }}</h3>
+        <p class="mb-1">{{ item.location | escape }}</p>
+        {% if item.type and item.type != empty %}
+        <p class="font-italic mb-0">{{ item.type | escape }}</p>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
 <!-- work experience -->
+{% comment %}
 <div class="row">
 {% include about/timeline.html title="Experience" source=site.data.work-experience %}
 </div>
+{% endcomment %}
 
 <!-- education -->
+{% comment %}
 <div class="row">
 {% include about/timeline.html title="Education" source=site.data.timeline-edu %}
 </div>
+{% endcomment %}
 
 <!-- skills -->
 <div class="row">
