@@ -1,12 +1,12 @@
 <div class="col mt-4">
   <div class="timeline-body bg-themed" style="background-color: transparent;">
          
-    <p class="mb-3" style="padding-left: 1rem;">{{ include.title }}</p>
+    <h4 class="mb-3" style="padding-left: 1rem;">{{ include.title }}</h4>
       
     {% for item in include.source %}
       <div class="timeline-item">
         <div class="content">
-          <p class="h2">{{ item.title }}</p>
+          <p>{{ item.title }}</p>
           <p class="date">{{ item.from }} — {{ item.to }}, {{item.location}}</p>
           <p style="font-style: italic;">{{item.type}}</p>
           <!-- <p>{{ item.description }}</p> -->
